@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name">Magical Dogfight</string>
+    <string name="profile">프로필</string>
+    <string name="home">홈</string>
+    <string name="settings">설정</string>
+    <string name="settings_title">게임 화면 설정</string>
+    <string name="scale_only_trening_title">레이더 배율 (훈련 모드 전용):</string>
+    <string name="style_target_show_title">표적 표시 스타일:</string>
+    <string name="characters">캐릭터</string>
+    <string name="aircraft">항공기</string>
+    <string name="dots_and_traces">점과 흔적</string>
+    <string name="only_traces">흔적만</string>
+    <string name="number_of_rounds_in_queue">연사 시 탄환 수</string>
+    <string name="fire_button">발사 버튼</string>
+    <string name="joystick_and_others">조이스틱 및 기타</string>
+    <string name="enemy_shot_sound">적 발사 소리</string>
+    <string name="show_radar_beam">레이더 빔 표시</string>
+    <string name="reset_button_layout">버튼 배치 초기화</string>
+    <string name="setting_up_voice_commands">음성 명령 설정</string>
+    <string name="victory">승리!</string>
+    <string name="losing">패배!</string>
+    <string name="draw">무승부!</string>
+    <string name="play">플레이</string>
+    <string name="exit">종료</string>
+    <string name="recognized">인식됨: %1$s</string>
+    <string name="voice_control">음성\n제어</string>
+    <string name="select_photo">사진 선택</string>
+    <string name="close">닫기</string>
+    <string name="you_have_no_stars">😢 별이 없습니다 ⭐</string>
+    <string name="you_have_x_stars">%1$s개의 별이 있습니다 ⭐</string>
+    <string name="choose_how_to_top_up">충전 방법을 선택하세요:</string>
+    <string name="edit">%1$s 수정</string>
+    <string name="cancel">취소</string>
+    <string name="ok">확인</string>
+    <string name="slow">느림</string>
+    <string name="fast">빠름</string>
+    <string name="trace_fading">흔적 희미화:</string>
+    <string name="target_size">표적 크기</string>
+    <string name="training_flight">훈련 비행</string>
+    <string name="air_battle">공중전</string>
+    <string name="online_skirmish">온라인 소규모 전투</string>
+    <string name="mission_run">임무 실행</string>
+    <string name="you">당신</string>
+    <string name="enemy">적</string>
+
+    <string name="depletion_afterburner">⚡ 애프터버너가 소모되었습니다!</string>
+    <string name="depletion_ammo">🔫 탄약이 소진되었습니다!</string>
+    <string name="depletion_shield">🛡 실드가 소모되었습니다!</string>
+    <string name="depletion_homing">🎯 유도 미사일이 소진되었습니다!</string>
+    <string name="depletion_superrocket">🚀 전방위 슈퍼 로켓이 소진되었습니다!</string>
+    <string name="depletion_avada">⚡ 아브라카다브라가 소진되었습니다!</string>
+    <string name="depletion_turn">🔄 선회 기회가 소진되었습니다!</string>
+    <string name="depletion_reverse">⇆ 역전 기회가 소진되었습니다!</string>
+    <string name="depletion_stars">😢 이 레벨을 위해 별이 부족합니다!</string>
+    <string name="game_screen_background">게임 화면 배경:</string>
+    <string name="show_direction_sight">방향 조준선 표시</string>
+    <string name="direction_sight">방향 조준선:</string>
+    <string name="select_background">배경 선택:</string>
+    <string name="select_from_gallery">갤러리에서 선택</string>
+    <string name="or_set_the_background_color">또는 배경 색상 설정:</string>
+
+    <string name="command_fire_phrase">발사</string>
+    <string name="command_fire_label">사격</string>
+
+    <string name="command_one_shot_phrase">총알</string>
+    <string name="command_one_shot_label">단일 사격</string>
+
+    <string name="command_afterburner_on_phrase">애프터버너</string>
+    <string name="command_afterburner_on_label">애프터버너 켜기</string>
+
+    <string name="command_afterburner_off_phrase">애프터버너 중지</string>
+    <string name="command_afterburner_off_label">애프터버너 끄기</string>
+
+    <string name="command_speed_plus_phrase">속도 증가</string>
+    <string name="command_speed_plus_label">속도 올리기</string>
+
+    <string name="command_speed_minus_phrase">속도 감소</string>
+    <string name="command_speed_minus_label">속도 내리기</string>
+
+    <string name="command_speed_max_phrase">최고 속도</string>
+    <string name="command_speed_max_label">최고 속도</string>
+
+    <string name="command_speed_min_phrase">최저 속도</string>
+    <string name="command_speed_min_label">최저 속도</string>
+
+    <string name="command_speed_half_phrase">절반 추력</string>
+    <string name="command_speed_half_label">50% 속도</string>
+
+    <string name="command_roll_left_phrase">좌회전</string>
+    <string name="command_roll_left_label">왼쪽으로 회전</string>
+
+    <string name="command_roll_right_phrase">우회전</string>
+    <string name="command_roll_right_label">오른쪽으로 회전</string>
+
+    <string name="command_roll_center_phrase">직진</string>
+    <string name="command_roll_center_label">직진</string>
+
+    <string name="command_roll_left_5_phrase">왼쪽 5도</string>
+    <string name="command_roll_left_5_label">왼쪽 5도</string>
+
+    <string name="command_roll_left_10_phrase">왼쪽 10도</string>
+    <string name="command_roll_left_10_label">왼쪽 10도</string>
+
+    <string name="command_roll_right_5_phrase">오른쪽 5도</string>
+    <string name="command_roll_right_5_label">오른쪽 5도</string>
+
+    <string name="command_roll_right_10_phrase">오른쪽 10도</string>
+    <string name="command_roll_right_10_label">오른쪽 10도</string>
+
+    <string name="command_shield_phrase">실드</string>
+    <string name="command_shield_label">실드 활성화</string>
+
+    <string name="command_avada_phrase">아브라카다브라</string>
+    <string name="command_avada_label">아브라카다브라</string>
+
+    <string name="command_battle_turn_phrase">전투 선회</string>
+    <string name="command_battle_turn_label">전투 선회</string>
+
+    <string name="command_battle_turn_enemy_phrase">적 회전</string>
+    <string name="command_battle_turn_enemy_label">적 회전</string>
+
+    <string name="item_stars_name">별</string>
+    <string name="item_stars_desc">승리 시 획득! 자원으로 교환하거나 다양한 레벨에서 사용 가능</string>
+
+    <string name="item_avada_name">아브라카다브라</string>
+    <string name="item_avada_desc">번개 공격. 즉시 적을 처치함. 실드로만 막을 수 있음.</string>
+
+    <string name="item_ammo_name">탄약</string>
+    <string name="item_ammo_desc">항공기 캐논용 탄약</string>
+
+    <string name="item_afterburner_name">애프터버너</string>
+    <string name="item_afterburner_desc">5초 동안 속도 7배 증가</string>
+
+    <string name="item_shield_name">실드</string>
+    <string name="item_shield_desc">모든 피해 차단, 아브라카다브라도 포함</string>
+
+    <string name="item_missile_sector_name">섹터 미사일</string>
+    <string name="item_missile_sector_desc">60° 콘 내 목표물 공격</string>
+
+    <string name="item_missile_any_name">전방위 슈퍼 미사일</string>
+    <string name="item_missile_any_desc">모든 목표물 명중</string>
+
+    <string name="item_u_turn_name">전투 유턴</string>
+    <string name="item_u_turn_desc">항공기를 180도 회전</string>
+
+    <string name="item_reverse_target_name">역방향 표적</string>
+    <string name="item_reverse_target_desc">표적을 180도 회전시킴</string>
+
+    <string name="have_no_stars">별이\n없습니다</string>
+    <string name="video_not_loadet_toast">비디오가 준비되지 않았습니다! 연결 상태를 확인하고 다시 시도하세요!</string>
+    <string name="video_not_loadet_but_resurce">비디오가 준비되지 않았지만, 소정의 보상을 드립니다!</string>
+    <string name="arrow_from_gallery">갤러리에서 화살표 선택</string>
+    <string name="background_from_gallery">갤러리에서 배경 선택</string>
+    <string name="target_from_gallery">갤러리에서 표적 선택</string>
+    <string name="reset">초기화</string>
+    <string name="difficulty_1">초보자</string>
+    <string name="difficulty_2">쉬움</string>
+    <string name="difficulty_3">보통</string>
+    <string name="difficulty_4">어려움</string>
+    <string name="difficulty_5">미친 난이도</string>
+    <string name="stars_1">⭐</string>
+    <string name="stars_2">⭐⭐</string>
+    <string name="stars_3">⭐⭐⭐</string>
+    <string name="stars_4">⭐⭐⭐⭐</string>
+    <string name="stars_5">⭐⭐⭐⭐⭐</string>
+    <string name="fire_title">불</string>
+    <string name="watter_drop_subtitle">불에 물을 뿌리세요</string>
+    <string name="meteorit_title">운석</string>
+    <string name="meteorit_subtitle">지구를 구하세요</string>
+    <string name="online_not_redy_title">아직 준비되지 않음</string>
+    <string name="online_not_redy_subtitle">개발자가 열심히 작업 중입니다</string>
+    <string name="comments_and_suggestions">의견 및 제안</string>
+    <string name="voice_kren_title">음성 명령 회전을 위한 뱅크 각도</string>
+    <string name="boo_cat_voice">카푸치노</string>
+    <string name="bobr">비버</string>
+    <string name="hocus_pocus">호커스 포커스</string>
+    <string name="km_8">8 000 m</string>
+    <string name="km_80">80 000 m</string>
+    <string name="share_and_show_update">계속 지켜봐 주시고!</string>
+</resources>
+
+
+
+
+
+
+
+

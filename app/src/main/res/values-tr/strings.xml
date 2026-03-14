@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">Magical Dogfight</string>
+    <string name="profile">Profil</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="settings">Ayarlar</string>
+    <string name="settings_title">Oyun Ekranı Ayarları</string>
+    <string name="scale_only_trening_title">Radar ölçeği (yalnızca eğitim modu):</string>
+    <string name="style_target_show_title">Hedef gösterim stili:</string>
+    <string name="characters">Karakterler</string>
+    <string name="aircraft">Uçak</string>
+    <string name="dots_and_traces">Noktalar ve İzler</string>
+    <string name="only_traces">Yalnızca İzler</string>
+    <string name="number_of_rounds_in_queue">Serideki mermi sayısı</string>
+    <string name="fire_button">Ateş düğmesi</string>
+    <string name="joystick_and_others">Joystick ve Diğerleri</string>
+    <string name="enemy_shot_sound">Düşman atış sesi</string>
+    <string name="show_radar_beam">Radar ışınını göster</string>
+    <string name="reset_button_layout">Düğme yerleşimini sıfırla</string>
+    <string name="setting_up_voice_commands">Sesli komut ayarı</string>
+    <string name="victory">Zafer!</string>
+    <string name="losing">Mağlubiyet!</string>
+    <string name="draw">Beraberlik!</string>
+    <string name="play">Oyna</string>
+    <string name="exit">Çıkış</string>
+    <string name="recognized">Tanındı: %1$s</string>
+    <string name="voice_control">Sesli\nKontrol</string>
+    <string name="select_photo">Fotoğraf seç</string>
+    <string name="close">Kapat</string>
+    <string name="you_have_no_stars">😢 Hiç yıldızınız yok ⭐</string>
+    <string name="you_have_x_stars">%1$s yıldızınız var ⭐</string>
+    <string name="choose_how_to_top_up">Nasıl doldurulacağını seçin:</string>
+    <string name="edit">Düzenle: %1$s</string>
+    <string name="cancel">İptal</string>
+    <string name="ok">Tamam</string>
+    <string name="slow">Yavaş</string>
+    <string name="fast">Hızlı</string>
+    <string name="trace_fading">İz solması: </string>
+    <string name="target_size">Hedef boyutu</string>
+    <string name="training_flight">Eğitim Uçuşu</string>
+    <string name="air_battle">Hava Savaşı</string>
+    <string name="online_skirmish">Çevrim içi Çatışma</string>
+    <string name="mission_run">Görev Koşusu</string>
+    <string name="you">Sen</string>
+    <string name="enemy">Düşman</string>
+
+    <string name="depletion_afterburner">⚡ Art yakıcılar tükendi!</string>
+    <string name="depletion_ammo">🔫 Mermiler tükendi!</string>
+    <string name="depletion_shield">🛡 Kalkanlar tükendi!</string>
+    <string name="depletion_homing">🎯 Güdümlü füzeler tükendi!</string>
+    <string name="depletion_superrocket">🚀 Her yöne süper roketler tükendi!</string>
+    <string name="depletion_avada">⚡ Abrakadabra tükendi!</string>
+    <string name="depletion_turn">🔄 Dönüşler tükendi!</string>
+    <string name="depletion_reverse">⇆ Geri dönüşler tükendi!</string>
+    <string name="depletion_stars">😢 Bu seviye için yeterli yıldızınız yok!</string>
+    <string name="game_screen_background">Oyun ekranı arka planı:</string>
+    <string name="show_direction_sight">Yön nişangahını göster</string>
+    <string name="direction_sight">yön nişangahı:</string>
+    <string name="select_background">Arka plan seçin:</string>
+    <string name="select_from_gallery">Galeriden seç</string>
+    <string name="or_set_the_background_color">Veya arka plan rengini ayarlayın:</string>
+
+    <string name="command_fire_phrase">ateş</string>
+    <string name="command_fire_label">Ateş Et</string>
+
+    <string name="command_one_shot_phrase">vur</string>
+    <string name="command_one_shot_label">Tek atış</string>
+
+    <string name="command_afterburner_on_phrase">art yakıcı</string>
+    <string name="command_afterburner_on_label">Art Yakıcı AÇIK</string>
+
+    <string name="command_afterburner_off_phrase">art yakıcı dur</string>
+    <string name="command_afterburner_off_label">Art Yakıcı KAPALI</string>
+
+    <string name="command_speed_plus_phrase">hızlan</string>
+    <string name="command_speed_plus_label">Hız artır</string>
+
+    <string name="command_speed_minus_phrase">yavaşla</string>
+    <string name="command_speed_minus_label">Hız azalt</string>
+
+    <string name="command_speed_max_phrase">maksimum hız</string>
+    <string name="command_speed_max_label">Maksimum hız</string>
+
+    <string name="command_speed_min_phrase">minimum hız</string>
+    <string name="command_speed_min_label">Minimum hız</string>
+
+    <string name="command_speed_half_phrase">yarım güç</string>
+    <string name="command_speed_half_label">%50 hız</string>
+
+    <string name="command_roll_left_phrase">sol dönüş</string>
+    <string name="command_roll_left_label">Sola dön</string>
+
+    <string name="command_roll_right_phrase">sağ dönüş</string>
+    <string name="command_roll_right_label">Sağa dön</string>
+
+    <string name="command_roll_center_phrase">düz</string>
+    <string name="command_roll_center_label">Düz git</string>
+
+    <string name="command_roll_left_5_phrase">sol beş</string>
+    <string name="command_roll_left_5_label">Sola 5 derece</string>
+
+    <string name="command_roll_left_10_phrase">sol on</string>
+    <string name="command_roll_left_10_label">Sola 10 derece</string>
+
+    <string name="command_roll_right_5_phrase">sağ beş</string>
+    <string name="command_roll_right_5_label">Sağa 5 derece</string>
+
+    <string name="command_roll_right_10_phrase">sağ on</string>
+    <string name="command_roll_right_10_label">Sağa 10 derece</string>
+
+    <string name="command_shield_phrase">kalkan</string>
+    <string name="command_shield_label">Kalkanı Aktifleştir</string>
+
+    <string name="command_avada_phrase">abrakadabra</string>
+    <string name="command_avada_label">abrakadabra</string>
+
+    <string name="command_battle_turn_phrase">savaş dönüşü</string>
+    <string name="command_battle_turn_label">Savaş dönüşü</string>
+
+    <string name="command_battle_turn_enemy_phrase">düşman dönüşü</string>
+    <string name="command_battle_turn_enemy_label">Düşmanı döndür</string>
+
+    <string name="item_stars_name">Yıldızlar</string>
+    <string name="item_stars_desc">Zaferlerden kazanılır! Kaynaklarla değiştirilebilir ve seviyelerde kullanılabilir.</string>
+
+    <string name="item_avada_name">Abrakadabra</string>
+    <string name="item_avada_desc">Yıldırım saldırısı. Hedefi anında öldürür. Sadece kalkanla engellenebilir.</string>
+
+    <string name="item_ammo_name">Mermi</string>
+    <string name="item_ammo_desc">Uçak topu için mühimmat</string>
+
+    <string name="item_afterburner_name">Art Yakıcı</string>
+    <string name="item_afterburner_desc">Hızı 5 saniye boyunca 7 kat artırır</string>
+
+    <string name="item_shield_name">Kalkan</string>
+    <string name="item_shield_desc">Her türlü hasarı engeller, hatta Abrakadabra’yı bile</string>
+
+    <string name="item_missile_sector_name">Sektör Füzesi</string>
+    <string name="item_missile_sector_desc">60°’lik bir konide hedefleri vurur</string>
+
+    <string name="item_missile_any_name">Her Yöne Süper Füze</string>
+    <string name="item_missile_any_desc">Her hedefi vurur</string>
+
+    <string name="item_u_turn_name">Savaş U-Dönüşü</string>
+    <string name="item_u_turn_desc">Uçağı 180° döndürür</string>
+
+    <string name="item_reverse_target_name">Hedefi Ters Çevir</string>
+    <string name="item_reverse_target_desc">Hedefi 180° döndürür</string>
+
+    <string name="have_no_stars">Yıldızlar\nbitti</string>
+    <string name="video_not_loadet_toast">Video hazır değil! Bağlantınızı kontrol edin ve tekrar deneyin!</string>
+    <string name="video_not_loadet_but_resurce">Video hazır değil, ama işte küçük bir ödül!</string>
+    <string name="arrow_from_gallery">Galeriden ok seç</string>
+    <string name="background_from_gallery">Galeriden arka plan seç</string>
+    <string name="target_from_gallery">Galeriden hedef seç</string>
+    <string name="reset">sıfırla</string>
+    <string name="difficulty_1">Yeni Başlayan</string>
+    <string name="difficulty_2">Kolay</string>
+    <string name="difficulty_3">Normal</string>
+    <string name="difficulty_4">Zor</string>
+    <string name="difficulty_5">Çılgın</string>
+    <string name="stars_1">⭐</string>
+    <string name="stars_2">⭐⭐</string>
+    <string name="stars_3">⭐⭐⭐</string>
+    <string name="stars_4">⭐⭐⭐⭐</string>
+    <string name="stars_5">⭐⭐⭐⭐⭐</string>
+    <string name="fire_title">Ateş</string>
+    <string name="watter_drop_subtitle">Alevleri söndürmek için su bırak</string>
+    <string name="meteorit_title">Göktaşı</string>
+    <string name="meteorit_subtitle">Dünyayı kurtar</string>
+    <string name="online_not_redy_title">Henüz hazır değil</string>
+    <string name="online_not_redy_subtitle">Geliştirici çok çalışıyor ve acele ediyor</string>
+    <string name="comments_and_suggestions">Yorumlar ve öneriler</string>
+    <string name="voice_kren_title">Dönüş için sesli komut yatış açısı</string>
+    <string name="boo_cat_voice">kapuçino</string>
+    <string name="bobr">Kunduz</string>
+    <string name="hocus_pocus">hokus pokus</string>
+    <string name="km_8">8 000 m</string>
+    <string name="km_80">80 000 m</string>
+    <string name="share_and_show_update">Takipte kalın!</string>
+</resources>
+
+
+
+

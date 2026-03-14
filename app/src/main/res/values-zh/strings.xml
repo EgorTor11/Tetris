@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magical Dogfight</string>
+    <string name="profile">个人资料</string>
+    <string name="home">主页</string>
+    <string name="settings">设置</string>
+    <string name="settings_title">游戏画面设置</string>
+    <string name="scale_only_trening_title">雷达缩放（仅限训练模式）：</string>
+    <string name="style_target_show_title">目标显示样式：</string>
+    <string name="characters">角色</string>
+    <string name="aircraft">飞机</string>
+    <string name="dots_and_traces">点和轨迹</string>
+    <string name="only_traces">仅轨迹</string>
+    <string name="number_of_rounds_in_queue">连发子弹数量</string>
+    <string name="fire_button">开火按钮</string>
+    <string name="joystick_and_others">操纵杆及其他</string>
+    <string name="enemy_shot_sound">敌人射击声音</string>
+    <string name="show_radar_beam">显示雷达波束</string>
+    <string name="reset_button_layout">重置按钮布局</string>
+    <string name="setting_up_voice_commands">语音命令设置</string>
+    <string name="victory">胜利！</string>
+    <string name="losing">失败！</string>
+    <string name="draw">平局！</string>
+    <string name="play">开始</string>
+    <string name="exit">退出</string>
+    <string name="recognized">已识别：%1$s</string>
+    <string name="voice_control">语音\n控制</string>
+    <string name="select_photo">选择照片</string>
+    <string name="close">关闭</string>
+    <string name="you_have_no_stars">😢 你没有星星 ⭐</string>
+    <string name="you_have_x_stars">你有 %1$s 颗星 ⭐</string>
+    <string name="choose_how_to_top_up">选择充值方式：</string>
+    <string name="edit">编辑：%1$s</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="slow">慢</string>
+    <string name="fast">快</string>
+    <string name="trace_fading">轨迹淡出：</string>
+    <string name="target_size">目标大小</string>
+    <string name="training_flight">训练飞行</string>
+    <string name="air_battle">空战</string>
+    <string name="online_skirmish">在线对战</string>
+    <string name="mission_run">任务执行</string>
+    <string name="you">你</string>
+    <string name="enemy">敌人</string>
+
+    <string name="depletion_afterburner">⚡ 加力燃烧器已耗尽！</string>
+    <string name="depletion_ammo">🔫 弹药已耗尽！</string>
+    <string name="depletion_shield">🛡 护盾已耗尽！</string>
+    <string name="depletion_homing">🎯 导弹已耗尽！</string>
+    <string name="depletion_superrocket">🚀 全向超级火箭已耗尽！</string>
+    <string name="depletion_avada">⚡ 阿布拉卡达布拉结束了！</string>
+    <string name="depletion_turn">🔄 转向次数已耗尽！</string>
+    <string name="depletion_reverse">⇆ 反转次数已耗尽！</string>
+    <string name="depletion_stars">😢 你没有足够的星星来解锁此关卡！</string>
+    <string name="game_screen_background">游戏画面背景：</string>
+    <string name="show_direction_sight">显示方向瞄准线</string>
+    <string name="direction_sight">方向瞄准线：</string>
+    <string name="select_background">选择背景：</string>
+    <string name="select_from_gallery">从图库中选择</string>
+    <string name="or_set_the_background_color">或设置背景颜色：</string>
+
+    <string name="command_fire_phrase">开火</string>
+    <string name="command_fire_label">射击</string>
+
+    <string name="command_one_shot_phrase">射击</string>
+    <string name="command_one_shot_label">单发射击</string>
+
+    <string name="command_afterburner_on_phrase">加力燃烧器</string>
+    <string name="command_afterburner_on_label">加力燃烧器开启</string>
+
+    <string name="command_afterburner_off_phrase">停止加力燃烧器</string>
+    <string name="command_afterburner_off_label">加力燃烧器关闭</string>
+
+    <string name="command_speed_plus_phrase">加速</string>
+    <string name="command_speed_plus_label">增加速度</string>
+
+    <string name="command_speed_minus_phrase">减速</string>
+    <string name="command_speed_minus_label">降低速度</string>
+
+    <string name="command_speed_max_phrase">最大速度</string>
+    <string name="command_speed_max_label">最大速度</string>
+
+    <string name="command_speed_min_phrase">最小速度</string>
+    <string name="command_speed_min_label">最小速度</string>
+
+    <string name="command_speed_half_phrase">半速</string>
+    <string name="command_speed_half_label">50%速度</string>
+
+    <string name="command_roll_left_phrase">左转</string>
+    <string name="command_roll_left_label">向左转</string>
+
+    <string name="command_roll_right_phrase">右转</string>
+    <string name="command_roll_right_label">向右转</string>
+
+    <string name="command_roll_center_phrase">直行</string>
+    <string name="command_roll_center_label">直行</string>
+
+    <string name="command_roll_left_5_phrase">左五度</string>
+    <string name="command_roll_left_5_label">左转5度</string>
+
+    <string name="command_roll_left_10_phrase">左十度</string>
+    <string name="command_roll_left_10_label">左转10度</string>
+
+    <string name="command_roll_right_5_phrase">右五度</string>
+    <string name="command_roll_right_5_label">右转5度</string>
+
+    <string name="command_roll_right_10_phrase">右十度</string>
+    <string name="command_roll_right_10_label">右转10度</string>
+
+    <string name="command_shield_phrase">护盾</string>
+    <string name="command_shield_label">激活护盾</string>
+
+    <string name="command_avada_phrase">胡言乱语</string>
+    <string name="command_avada_label">胡言乱语</string>
+
+    <string name="command_battle_turn_phrase">战斗转向</string>
+    <string name="command_battle_turn_label">战斗转向</string>
+
+    <string name="command_battle_turn_enemy_phrase">敌人转向</string>
+    <string name="command_battle_turn_enemy_label">转向敌人</string>
+
+    <string name="item_stars_name">星星</string>
+    <string name="item_stars_desc">胜利奖励！可用于兑换资源和解锁关卡。</string>
+
+    <string name="item_avada_name">胡言乱语</string>
+    <string name="item_avada_desc">闪电攻击。立即击杀目标，仅护盾可阻挡。</string>
+
+    <string name="item_ammo_name">弹药</string>
+    <string name="item_ammo_desc">飞机机炮弹药</string>
+
+    <string name="item_afterburner_name">加力燃烧器</string>
+    <string name="item_afterburner_desc">速度提升7倍，持续5秒</string>
+
+    <string name="item_shield_name">护盾</string>
+    <string name="item_shield_desc">阻挡所有伤害，甚至是阿瓦达</string>
+
+    <string name="item_missile_sector_name">扇形导弹</string>
+    <string name="item_missile_sector_desc">攻击60°范围内的目标</string>
+
+    <string name="item_missile_any_name">全向超级导弹</string>
+    <string name="item_missile_any_desc">可攻击任意目标</string>
+
+    <string name="item_u_turn_name">战斗掉头</string>
+    <string name="item_u_turn_desc">飞机180°掉头</string>
+
+    <string name="item_reverse_target_name">反转目标</string>
+    <string name="item_reverse_target_desc">目标旋转180°</string>
+
+    <string name="have_no_stars">星星\n已用完</string>
+    <string name="video_not_loadet_toast">视频未准备好！请检查您的连接并重试！</string>
+    <string name="video_not_loadet_but_resurce">视频未准备好，但仍然为您提供小奖励！</string>
+    <string name="arrow_from_gallery">从图库中选择箭头</string>
+    <string name="background_from_gallery">从图库中选择背景</string>
+    <string name="target_from_gallery">从图库中选择目标</string>
+    <string name="reset">重置</string>
+    <string name="difficulty_1">初学者</string>
+    <string name="difficulty_2">简单</string>
+    <string name="difficulty_3">普通</string>
+    <string name="difficulty_4">困难</string>
+    <string name="difficulty_5">疯狂</string>
+    <string name="stars_1">⭐</string>
+    <string name="stars_2">⭐⭐</string>
+    <string name="stars_3">⭐⭐⭐</string>
+    <string name="stars_4">⭐⭐⭐⭐</string>
+    <string name="stars_5">⭐⭐⭐⭐⭐</string>
+    <string name="fire_title">火灾</string>
+    <string name="watter_drop_subtitle">用水扑灭火焰</string>
+    <string name="meteorit_title">陨石</string>
+    <string name="meteorit_subtitle">拯救地球</string>
+    <string name="online_not_redy_title">尚未准备好</string>
+    <string name="online_not_redy_subtitle">开发者正在努力开发中……</string>
+    <string name="comments_and_suggestions">意见与建议</string>
+    <string name="voice_kren_title">语音转向的倾斜角度</string>
+    <string name="boo_cat_voice">卡布奇诺</string>
+    <string name="bobr">海狸</string>
+    <string name="hocus_pocus">呼啦呼啦</string>
+    <string name="km_8">8 000 m</string>
+    <string name="km_80">80 000 m</string>
+    <string name="share_and_show_update">敬请关注！</string>
+</resources>
+
+
+
+
+
+

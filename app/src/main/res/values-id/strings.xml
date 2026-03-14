@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Magical Dogfight</string>
+    <string name="profile">Profil</string>
+    <string name="home">Beranda</string>
+    <string name="settings">Pengaturan</string>
+    <string name="settings_title">Pengaturan Layar Permainan</string>
+    <string name="scale_only_trening_title">Skala radar (hanya mode latihan):</string>
+    <string name="style_target_show_title">Gaya tampilan target:</string>
+    <string name="characters">Karakter</string>
+    <string name="aircraft">Pesawat</string>
+    <string name="dots_and_traces">Titik dan Jejak</string>
+    <string name="only_traces">Hanya Jejak</string>
+    <string name="number_of_rounds_in_queue">Jumlah peluru dalam satu tembakan</string>
+    <string name="fire_button">Tombol Tembak</string>
+    <string name="joystick_and_others">Joystick dan Lainnya</string>
+    <string name="enemy_shot_sound">Suara tembakan musuh</string>
+    <string name="show_radar_beam">Tampilkan sinar radar</string>
+    <string name="reset_button_layout">Atur ulang tata letak tombol</string>
+    <string name="setting_up_voice_commands">Pengaturan perintah suara</string>
+    <string name="victory">Kemenangan!</string>
+    <string name="losing">Kekalahan!</string>
+    <string name="draw">Seri!</string>
+    <string name="play">Main</string>
+    <string name="exit">Keluar</string>
+    <string name="recognized">Terdeteksi: %1$s</string>
+    <string name="voice_control">Kontrol\nSuara</string>
+    <string name="select_photo">Pilih foto</string>
+    <string name="close">Tutup</string>
+    <string name="you_have_no_stars">😢 Kamu tidak punya bintang ⭐</string>
+    <string name="you_have_x_stars">Kamu punya %1$s bintang ⭐</string>
+    <string name="choose_how_to_top_up">Pilih cara isi ulang:</string>
+    <string name="edit">Edit: %1$s</string>
+    <string name="cancel">Batal</string>
+    <string name="ok">OK</string>
+    <string name="slow">Lambat</string>
+    <string name="fast">Cepat</string>
+    <string name="trace_fading">Pudar jejak: </string>
+    <string name="target_size">Ukuran target</string>
+    <string name="training_flight">Penerbangan Latihan</string>
+    <string name="air_battle">Pertempuran Udara</string>
+    <string name="online_skirmish">Adu Daring</string>
+    <string name="mission_run">Misi</string>
+    <string name="you">Kamu</string>
+    <string name="enemy">Musuh</string>
+
+    <string name="depletion_afterburner">⚡ Afterburner habis!</string>
+    <string name="depletion_ammo">🔫 Amunisi habis!</string>
+    <string name="depletion_shield">🛡 Perisai habis!</string>
+    <string name="depletion_homing">🎯 Peluru kendali habis!</string>
+    <string name="depletion_superrocket">🚀 Roket super omnidireksional habis!</string>
+    <string name="depletion_avada">⚡ Abrakadabra habis!</string>
+    <string name="depletion_turn">🔄 Putaran habis!</string>
+    <string name="depletion_reverse">⇆ Balikan habis!</string>
+    <string name="depletion_stars">😢 Kamu tidak punya cukup bintang untuk level ini!</string>
+    <string name="game_screen_background">Latar belakang layar permainan:</string>
+    <string name="show_direction_sight">Tampilkan pengarah arah</string>
+    <string name="direction_sight">pengarah arah:</string>
+    <string name="select_background">Pilih latar belakang:</string>
+    <string name="select_from_gallery">Pilih dari galeri</string>
+    <string name="or_set_the_background_color">Atau atur warna latar belakang: </string>
+
+    <string name="command_fire_phrase">tembak</string>
+    <string name="command_fire_label">Tembak</string>
+
+    <string name="command_one_shot_phrase">tembakan</string>
+    <string name="command_one_shot_label">Tembakan tunggal</string>
+
+    <string name="command_afterburner_on_phrase">afterburner</string>
+    <string name="command_afterburner_on_label">Afterburner NYALA</string>
+
+    <string name="command_afterburner_off_phrase">matikan afterburner</string>
+    <string name="command_afterburner_off_label">Afterburner MATI</string>
+
+    <string name="command_speed_plus_phrase">percepat</string>
+    <string name="command_speed_plus_label">Tingkatkan kecepatan</string>
+
+    <string name="command_speed_minus_phrase">perlambat</string>
+    <string name="command_speed_minus_label">Kurangi kecepatan</string>
+
+    <string name="command_speed_max_phrase">kecepatan maksimum</string>
+    <string name="command_speed_max_label">Kecepatan maksimum</string>
+
+    <string name="command_speed_min_phrase">kecepatan minimum</string>
+    <string name="command_speed_min_label">Kecepatan minimum</string>
+
+    <string name="command_speed_half_phrase">setengah dorongan</string>
+    <string name="command_speed_half_label">Kecepatan 50%</string>
+
+    <string name="command_roll_left_phrase">guling kiri</string>
+    <string name="command_roll_left_label">Belok kiri</string>
+
+    <string name="command_roll_right_phrase">guling kanan</string>
+    <string name="command_roll_right_label">Belok kanan</string>
+
+    <string name="command_roll_center_phrase">lurus</string>
+    <string name="command_roll_center_label">Lurus</string>
+
+    <string name="command_roll_left_5_phrase">kiri lima</string>
+    <string name="command_roll_left_5_label">5 derajat ke kiri</string>
+
+    <string name="command_roll_left_10_phrase">kiri sepuluh</string>
+    <string name="command_roll_left_10_label">10 derajat ke kiri</string>
+
+    <string name="command_roll_right_5_phrase">kanan lima</string>
+    <string name="command_roll_right_5_label">5 derajat ke kanan</string>
+
+    <string name="command_roll_right_10_phrase">kanan sepuluh</string>
+    <string name="command_roll_right_10_label">10 derajat ke kanan</string>
+
+    <string name="command_shield_phrase">perisai</string>
+    <string name="command_shield_label">Aktifkan perisai</string>
+
+    <string name="command_avada_phrase">abrakadabra</string>
+    <string name="command_avada_label">abrakadabra</string>
+
+    <string name="command_battle_turn_phrase">putar tempur</string>
+    <string name="command_battle_turn_label">Putaran tempur</string>
+
+    <string name="command_battle_turn_enemy_phrase">putar musuh</string>
+    <string name="command_battle_turn_enemy_label">Putar musuh</string>
+
+    <string name="item_stars_name">Bintang</string>
+    <string name="item_stars_desc">Diperoleh dari kemenangan! Dapat ditukar dengan sumber daya dan digunakan di berbagai level.</string>
+
+    <string name="item_avada_name">Abrakadabra</string>
+    <string name="item_avada_desc">Petir menyambar. Menghancurkan target seketika. Hanya bisa diblokir oleh perisai.</string>
+
+    <string name="item_ammo_name">Amunisi</string>
+    <string name="item_ammo_desc">Peluru untuk meriam pesawat</string>
+
+    <string name="item_afterburner_name">Afterburner</string>
+    <string name="item_afterburner_desc">Meningkatkan kecepatan 7× selama 5 detik</string>
+
+    <string name="item_shield_name">Perisai</string>
+    <string name="item_shield_desc">Blokir semua serangan, bahkan Abrakadabra</string>
+
+    <string name="item_missile_sector_name">Rudal Sektor</string>
+    <string name="item_missile_sector_desc">Mengenai target dalam sudut 60°</string>
+
+    <string name="item_missile_any_name">Rudal Super Omnidireksional</string>
+    <string name="item_missile_any_desc">Mengenai target mana pun</string>
+
+    <string name="item_u_turn_name">Putaran U Tempur</string>
+    <string name="item_u_turn_desc">Membalikkan pesawat 180°</string>
+
+    <string name="item_reverse_target_name">Balikkan Target</string>
+    <string name="item_reverse_target_desc">Memutar target 180°</string>
+
+    <string name="have_no_stars">Bintang\ntelah habis</string>
+    <string name="video_not_loadet_toast">Video belum siap! Periksa koneksi Anda dan coba lagi!</string>
+    <string name="video_not_loadet_but_resurce">Video belum siap, tapi ini hadiah kecil untukmu!</string>
+    <string name="arrow_from_gallery">"pilih panah dari galeri"</string>
+    <string name="background_from_gallery">"pilih latar belakang dari galeri"</string>
+    <string name="target_from_gallery">"pilih target dari galeri"</string>
+    <string name="reset">" atur ulang"</string>
+    <string name="difficulty_1">Pemula</string>
+    <string name="difficulty_2">Mudah</string>
+    <string name="difficulty_3">Normal</string>
+    <string name="difficulty_4">Sulit</string>
+    <string name="difficulty_5">Gila</string>
+    <string name="stars_1">⭐</string>
+    <string name="stars_2">⭐⭐</string>
+    <string name="stars_3">⭐⭐⭐</string>
+    <string name="stars_4">⭐⭐⭐⭐</string>
+    <string name="stars_5">⭐⭐⭐⭐⭐</string>
+    <string name="fire_title">Api</string>
+    <string name="watter_drop_subtitle">Tumpahkan air ke api</string>
+    <string name="meteorit_title">Meteor</string>
+    <string name="meteorit_subtitle">Selamatkan Bumi</string>
+    <string name="online_not_redy_title">Belum siap</string>
+    <string name="online_not_redy_subtitle">Pengembang sedang bekerja keras dan terburu-buru</string>
+    <string name="comments_and_suggestions">Komentar dan saran</string>
+    <string name="voice_kren_title">Sudut bank untuk perintah suara belokan</string>
+    <string name="boo_cat_voice">kapucino</string>
+    <string name="bobr">Berang-berang</string>
+    <string name="hocus_pocus">hocus pocus</string>
+    <string name="km_8">8 000 m</string>
+    <string name="km_80">80 000 m</string>
+    <string name="share_and_show_update">Tetaplah disini!</string>
+</resources>
+
+
+
+
+

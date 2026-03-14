@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">Magical Dogfight</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="home">होम</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="settings_title">गेम स्क्रीन सेटिंग्स</string>
+    <string name="scale_only_trening_title">रडार स्केल (केवल प्रशिक्षण मोड में):</string>
+    <string name="style_target_show_title">लक्ष्य प्रदर्शन शैली:</string>
+    <string name="characters">पात्र</string>
+    <string name="aircraft">विमान</string>
+    <string name="dots_and_traces">बिंदु और निशान</string>
+    <string name="only_traces">केवल निशान</string>
+    <string name="number_of_rounds_in_queue">प्रत्येक फ़ायर में गोलियों की संख्या</string>
+    <string name="fire_button">फ़ायर बटन</string>
+    <string name="joystick_and_others">जॉयस्टिक और अन्य</string>
+    <string name="enemy_shot_sound">दुश्मन की गोली की आवाज़</string>
+    <string name="show_radar_beam">रडार बीम दिखाएं</string>
+    <string name="reset_button_layout">बटन लेआउट रीसेट करें</string>
+    <string name="setting_up_voice_commands">वॉइस कमांड सेटअप</string>
+    <string name="victory">जीत!</string>
+    <string name="losing">हार!</string>
+    <string name="draw">ड्रा!</string>
+    <string name="play">खेलें</string>
+    <string name="exit">बाहर निकलें</string>
+    <string name="recognized">पहचाना गया: %1$s</string>
+    <string name="voice_control">वॉइस\nकंट्रोल</string>
+    <string name="select_photo">फोटो चुनें</string>
+    <string name="close">बंद करें</string>
+    <string name="you_have_no_stars">😢 आपके पास कोई स्टार ⭐ नहीं है</string>
+    <string name="you_have_x_stars">आपके पास %1$s स्टार ⭐ हैं</string>
+    <string name="choose_how_to_top_up">टॉप अप करने का तरीका चुनें:</string>
+    <string name="edit">संपादित करें: %1$s</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="ok">ठीक है</string>
+    <string name="slow">धीमा</string>
+    <string name="fast">तेज़</string>
+    <string name="trace_fading">निशान फीका पड़ना:</string>
+    <string name="target_size">लक्ष्य का आकार</string>
+    <string name="training_flight">प्रशिक्षण उड़ान</string>
+    <string name="air_battle">हवाई युद्ध</string>
+    <string name="online_skirmish">ऑनलाइन संघर्ष</string>
+    <string name="mission_run">मिशन</string>
+    <string name="you">आप</string>
+    <string name="enemy">दुश्मन</string>
+
+    <string name="depletion_afterburner">⚡ आफ्टरबर्नर खत्म!</string>
+    <string name="depletion_ammo">🔫 गोला-बारूद खत्म!</string>
+    <string name="depletion_shield">🛡 शील्ड खत्म!</string>
+    <string name="depletion_homing">🎯 होमिंग मिसाइल खत्म!</string>
+    <string name="depletion_superrocket">🚀 सुपर रॉकेट खत्म!</string>
+    <string name="depletion_avada">⚡ अब्रकदाबरा ख़त्म हो गया है!</string>
+    <string name="depletion_turn">🔄 टर्न खत्म!</string>
+    <string name="depletion_reverse">⇆ रिवर्स खत्म!</string>
+    <string name="depletion_stars">😢 इस स्तर के लिए आपके पास पर्याप्त स्टार नहीं हैं!</string>
+    <string name="game_screen_background">गेम स्क्रीन पृष्ठभूमि:</string>
+    <string name="show_direction_sight">दिशा दृष्टि दिखाएं</string>
+    <string name="direction_sight">दिशा दृष्टि:</string>
+    <string name="select_background">पृष्ठभूमि चुनें:</string>
+    <string name="select_from_gallery">गैलरी से चुनें</string>
+    <string name="or_set_the_background_color">या पृष्ठभूमि का रंग सेट करें:</string>
+
+    <string name="command_fire_phrase">गोली चलाओ</string>
+    <string name="command_fire_label">फायर</string>
+
+    <string name="command_one_shot_phrase">शॉट</string>
+    <string name="command_one_shot_label">एक शॉट</string>
+
+    <string name="command_afterburner_on_phrase">आफ्टरबर्नर</string>
+    <string name="command_afterburner_on_label">आफ्टरबर्नर चालू</string>
+
+    <string name="command_afterburner_off_phrase">आफ्टरबर्नर बंद</string>
+    <string name="command_afterburner_off_label">आफ्टरबर्नर बंद</string>
+
+    <string name="command_speed_plus_phrase">गति बढ़ाओ</string>
+    <string name="command_speed_plus_label">गति बढ़ाएं</string>
+
+    <string name="command_speed_minus_phrase">गति घटाओ</string>
+    <string name="command_speed_minus_label">गति घटाएं</string>
+
+    <string name="command_speed_max_phrase">अधिकतम गति</string>
+    <string name="command_speed_max_label">अधिकतम गति</string>
+
+    <string name="command_speed_min_phrase">न्यूनतम गति</string>
+    <string name="command_speed_min_label">न्यूनतम गति</string>
+
+    <string name="command_speed_half_phrase">आधी गति</string>
+    <string name="command_speed_half_label">50% गति</string>
+
+    <string name="command_roll_left_phrase">बाएँ घुमाओ</string>
+    <string name="command_roll_left_label">बाएँ मुड़ो</string>
+
+    <string name="command_roll_right_phrase">दाएँ घुमाओ</string>
+    <string name="command_roll_right_label">दाएँ मुड़ो</string>
+
+    <string name="command_roll_center_phrase">सीधा</string>
+    <string name="command_roll_center_label">सीधा</string>
+
+    <string name="command_roll_left_5_phrase">बाएँ पाँच</string>
+    <string name="command_roll_left_5_label">5° बाएँ</string>
+
+    <string name="command_roll_left_10_phrase">बाएँ दस</string>
+    <string name="command_roll_left_10_label">10° बाएँ</string>
+
+    <string name="command_roll_right_5_phrase">दाएँ पाँच</string>
+    <string name="command_roll_right_5_label">5° दाएँ</string>
+
+    <string name="command_roll_right_10_phrase">दाएँ दस</string>
+    <string name="command_roll_right_10_label">10° दाएँ</string>
+
+    <string name="command_shield_phrase">शील्ड</string>
+    <string name="command_shield_label">शील्ड ऑन</string>
+
+    <string name="command_avada_phrase">अब्रकदाबरा</string>
+    <string name="command_avada_label">अब्रकदाबरा</string>
+
+    <string name="command_battle_turn_phrase">युद्ध मोड़</string>
+    <string name="command_battle_turn_label">बदलाव मोड़</string>
+
+    <string name="command_battle_turn_enemy_phrase">दुश्मन को मोड़ो</string>
+    <string name="command_battle_turn_enemy_label">दुश्मन को मोड़ो</string>
+
+    <string name="item_stars_name">स्टार्स</string>
+    <string name="item_stars_desc">जीत के लिए अर्जित किए जाते हैं! संसाधनों के लिए एक्सचेंज करें और स्तरों में उपयोग करें।</string>
+
+    <string name="item_avada_name">अब्रकदाबरा</string>
+    <string name="item_avada_desc">मैजिक बीम। एक बार में नष्ट करता है। केवल शील्ड इसे रोक सकता है।</string>
+
+    <string name="item_ammo_name">गोला-बारूद</string>
+    <string name="item_ammo_desc">विमान की तोप के लिए गोला-बारूद</string>
+
+    <string name="item_afterburner_name">आफ्टरबर्नर</string>
+    <string name="item_afterburner_desc">5 सेकंड के लिए 7× गति बढ़ाता है</string>
+
+    <string name="item_shield_name">शील्ड</string>
+    <string name="item_shield_desc">सभी क्षति को रोकता है, यहां तक कि अवडा को भी</string>
+
+    <string name="item_missile_sector_name">सेक्टोरियल मिसाइल</string>
+    <string name="item_missile_sector_desc">60° कोण में लक्ष्य पर हमला करता है</string>
+
+    <string name="item_missile_any_name">सुपर ओम्निडायरेक्शनल मिसाइल</string>
+    <string name="item_missile_any_desc">किसी भी लक्ष्य पर हमला करता है</string>
+
+    <string name="item_u_turn_name">180° मोड़</string>
+    <string name="item_u_turn_desc">विमान को 180° घुमाता है</string>
+
+    <string name="item_reverse_target_name">लक्ष्य उलटना</string>
+    <string name="item_reverse_target_desc">लक्ष्य को 180° घुमाता है</string>
+
+    <string name="have_no_stars">स्टार्स\nखत्म हो गए हैं</string>
+    <string name="video_not_loadet_toast">वीडियो उपलब्ध नहीं है! कृपया कनेक्शन जांचें और पुनः प्रयास करें!</string>
+    <string name="video_not_loadet_but_resurce">वीडियो नहीं चला, लेकिन यहां एक छोटा इनाम है!</string>
+    <string name="arrow_from_gallery">गैलरी से तीर चुनें</string>
+    <string name="background_from_gallery">गैलरी से पृष्ठभूमि चुनें</string>
+    <string name="target_from_gallery">गैलरी से लक्ष्य चुनें</string>
+    <string name="reset">रीसेट करें</string>
+    <string name="difficulty_1">शुरुआती</string>
+    <string name="difficulty_2">आसान</string>
+    <string name="difficulty_3">सामान्य</string>
+    <string name="difficulty_4">कठिन</string>
+    <string name="difficulty_5">पागलपन</string>
+    <string name="stars_1">⭐</string>
+    <string name="stars_2">⭐⭐</string>
+    <string name="stars_3">⭐⭐⭐</string>
+    <string name="stars_4">⭐⭐⭐⭐</string>
+    <string name="stars_5">⭐⭐⭐⭐⭐</string>
+    <string name="fire_title">आग</string>
+    <string name="watter_drop_subtitle">आग बुझाने के लिए पानी गिराएं</string>
+    <string name="meteorit_title">उल्कापिंड</string>
+    <string name="meteorit_subtitle">पृथ्वी को बचाओ</string>
+    <string name="online_not_redy_title">अभी तैयार नहीं</string>
+    <string name="online_not_redy_subtitle">डेवलपर पूरी कोशिश कर रहा है</string>
+    <string name="comments_and_suggestions">टिप्पणियाँ और सुझाव</string>
+    <string name="voice_kren_title">वॉयस कमांड से टर्न के लिए झुकाव कोण</string>
+    <string name="boo_cat_voice">कैपुचीनो</string>
+    <string name="bobr">बीवर</string>
+    <string name="hocus_pocus">होकस पोकस</string>
+    <string name="km_8">8 000 m</string>
+    <string name="km_80">80 000 m</string>
+    <string name="share_and_show_update">जुड़े रहें!</string>
+</resources>
+
+
+
+

@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">Magical Dogfight</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="settings_title">Game Screen Settings</string>
+    <string name="scale_only_trening_title">Radar scale (training mode only):</string>
+    <string name="style_target_show_title">Target display style:</string>
+    <string name="characters">Characters</string>
+    <string name="aircraft">Aircraft</string>
+    <string name="dots_and_traces">Dots and Traces</string>
+    <string name="only_traces">Traces Only</string>
+    <string name="number_of_rounds_in_queue">Number of rounds in a burst</string>
+    <string name="fire_button">Fire button</string>
+    <string name="joystick_and_others">Joystick and Others</string>
+    <string name="enemy_shot_sound">Enemy shot sound</string>
+    <string name="show_radar_beam">Show radar beam</string>
+    <string name="reset_button_layout">Reset button layout</string>
+    <string name="setting_up_voice_commands">Voice command setup</string>
+    <string name="victory">Victory!</string>
+    <string name="losing">Defeat!</string>
+    <string name="draw">Draw!</string>
+    <string name="play">Play</string>
+    <string name="exit">Exit</string>
+    <string name="recognized">Recognized: %1$s</string>
+    <string name="voice_control">Voice\nControl</string>
+    <string name="select_photo">Select photo</string>
+    <string name="close">Close</string>
+    <string name="you_have_no_stars">😢 You have no stars ⭐</string>
+    <string name="you_have_x_stars">You have %1$s stars ⭐</string>
+    <string name="choose_how_to_top_up">Choose how to top up:</string>
+    <string name="edit">Edit: %1$s</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="slow">Slow</string>
+    <string name="fast">Fast</string>
+    <string name="trace_fading">Trace fading: </string>
+    <string name="target_size">Target size</string>
+    <string name="training_flight">Training Flight</string>
+    <string name="air_battle">Air Battle</string>
+    <string name="online_skirmish">Online Skirmish</string>
+    <string name="mission_run">Mission Run</string>
+    <string name="you">You</string>
+    <string name="enemy">Enemy</string>
+
+    <string name="depletion_afterburner">⚡ Afterburners are depleted!</string>
+    <string name="depletion_ammo">🔫 Ammo is depleted!</string>
+    <string name="depletion_shield">🛡 Shields are depleted!</string>
+    <string name="depletion_homing">🎯 Homing missiles are depleted!</string>
+    <string name="depletion_superrocket">🚀 Omnidirectional super rockets are depleted!</string>
+    <string name="depletion_avada">⚡ Abracadabra is depleted!</string>
+    <string name="depletion_turn">🔄 Turns are depleted!</string>
+    <string name="depletion_reverse">⇆ Reverses are depleted!</string>
+    <string name="depletion_stars">😢 You don\'t have enough stars for this level!</string>
+    <string name="game_screen_background">Game screen background:</string>
+    <string name="show_direction_sight">Show direction sight</string>
+    <string name="direction_sight">direction sight:</string>
+    <string name="select_background">Select background:</string>
+    <string name="select_from_gallery">Select from gallery</string>
+    <string name="or_set_the_background_color">"Or set the background color: "</string>
+
+    <string name="command_fire_phrase">fire</string>
+    <string name="command_fire_label">Shoot</string>
+
+    <string name="command_one_shot_phrase">shoot</string>
+    <string name="command_one_shot_label">Single shot</string>
+
+    <string name="command_afterburner_on_phrase">afterburner</string>
+    <string name="command_afterburner_on_label">Afterburner ON</string>
+
+    <string name="command_afterburner_off_phrase">stop afterburner</string>
+    <string name="command_afterburner_off_label">Afterburner OFF</string>
+
+    <string name="command_speed_plus_phrase">speed up</string>
+    <string name="command_speed_plus_label">Increase speed</string>
+
+    <string name="command_speed_minus_phrase">slow down</string>
+    <string name="command_speed_minus_label">Decrease speed</string>
+
+    <string name="command_speed_max_phrase">maximum speed</string>
+    <string name="command_speed_max_label">Max speed</string>
+
+    <string name="command_speed_min_phrase">minimum speed</string>
+    <string name="command_speed_min_label">Min speed</string>
+
+    <string name="command_speed_half_phrase">half thrust</string>
+    <string name="command_speed_half_label">50% speed</string>
+
+    <string name="command_roll_left_phrase">left roll</string>
+    <string name="command_roll_left_label">Turn left</string>
+
+    <string name="command_roll_right_phrase">right roll</string>
+    <string name="command_roll_right_label">Turn right</string>
+
+    <string name="command_roll_center_phrase">straight</string>
+    <string name="command_roll_center_label">Straight</string>
+
+    <string name="command_roll_left_5_phrase">left five</string>
+    <string name="command_roll_left_5_label">Left 5 degrees</string>
+
+    <string name="command_roll_left_10_phrase">left ten</string>
+    <string name="command_roll_left_10_label">Left 10 degrees</string>
+
+    <string name="command_roll_right_5_phrase">right five</string>
+    <string name="command_roll_right_5_label">Right 5 degrees</string>
+
+    <string name="command_roll_right_10_phrase">right ten</string>
+    <string name="command_roll_right_10_label">Right 10 degrees</string>
+
+    <string name="command_shield_phrase">shield</string>
+    <string name="command_shield_label">Activate shield</string>
+
+    <string name="command_avada_phrase">abracadabra</string>
+    <string name="command_avada_label">abracadabra</string>
+
+    <string name="command_battle_turn_phrase">battle turn</string>
+    <string name="command_battle_turn_label">Battle turn</string>
+
+    <string name="command_battle_turn_enemy_phrase">enemy turn</string>
+    <string name="command_battle_turn_enemy_label">Turn enemy</string>
+
+    <string name="item_stars_name">Stars</string>
+    <string name="item_stars_desc">Awarded for victories! Can be exchanged for resources and used in different levels.</string>
+
+    <string name="item_avada_name">Abracadabra</string>
+    <string name="item_avada_desc">Lightning strike. Instantly kills the target. Can be blocked only by a shield.</string>
+
+    <string name="item_ammo_name">Ammo</string>
+    <string name="item_ammo_desc">Ammunition for aircraft cannon</string>
+
+    <string name="item_afterburner_name">Afterburner</string>
+    <string name="item_afterburner_desc">Increases speed 7× for 5 seconds</string>
+
+    <string name="item_shield_name">Shield</string>
+    <string name="item_shield_desc">Blocks any damage, even Abracadabra</string>
+
+    <string name="item_missile_sector_name">Sector Missile</string>
+    <string name="item_missile_sector_desc">Strikes targets in a 60° cone</string>
+
+    <string name="item_missile_any_name">Omnidirectional Super Missile</string>
+    <string name="item_missile_any_desc">Hits any target</string>
+
+    <string name="item_u_turn_name">Combat U-Turn</string>
+    <string name="item_u_turn_desc">Turns the aircraft 180°</string>
+
+    <string name="item_reverse_target_name">Reverse Target</string>
+    <string name="item_reverse_target_desc">Rotates the target 180°</string>
+    <string name="have_no_stars">The stars\nare over</string>
+    <string name="video_not_loadet_toast">Video not ready! Check your connection and try again!</string>
+    <string name="video_not_loadet_but_resurce">Video not ready, but here’s a small reward anyway!</string>
+    <string name="arrow_from_gallery">"select arrow from gallery"</string>
+    <string name="background_from_gallery">"select background from gallery"</string>
+    <string name="target_from_gallery">"select target from gallery"</string>
+    <string name="reset">" reset"</string>
+    <string name="difficulty_1">Beginner</string>
+    <string name="difficulty_2">Easy</string>
+    <string name="difficulty_3">Normal</string>
+    <string name="difficulty_4">Hard</string>
+    <string name="difficulty_5">Insane</string>
+    <string name="stars_1">⭐</string>
+    <string name="stars_2">⭐⭐</string>
+    <string name="stars_3">⭐⭐⭐</string>
+    <string name="stars_4">⭐⭐⭐⭐</string>
+    <string name="stars_5">⭐⭐⭐⭐⭐</string>
+    <string name="fire_title">Fire</string>
+    <string name="watter_drop_subtitle">Drop water on the flames</string>
+    <string name="meteorit_title">Meteorite</string>
+    <string name="meteorit_subtitle">Save the Earth</string>
+    <string name="online_not_redy_title">Not ready yet</string>
+    <string name="online_not_redy_subtitle">The developer is trying very hard and is in a hurry</string>
+    <string name="comments_and_suggestions">Comments and suggestions</string>
+    <string name="voice_kren_title">Bank angle for voice command to turn</string>
+    <string name="boo_cat_voice">cappuccino</string>
+    <string name="bobr">Beaver</string>
+    <string name="hocus_pocus">hocus pocus</string>
+    <string name="km_8">8 000 m</string>
+    <string name="km_80">80 000 m</string>
+    <string name="share_and_show_update">Stay tuned!</string>
+
+</resources>

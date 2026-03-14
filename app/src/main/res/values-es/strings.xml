@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">Magical Dogfight</string>
+    <string name="profile">Perfil</string>
+    <string name="home">Inicio</string>
+    <string name="settings">Ajustes</string>
+    <string name="settings_title">Configuración de Pantalla del Juego</string>
+    <string name="scale_only_trening_title">Escala del radar (solo en modo entrenamiento):</string>
+    <string name="style_target_show_title">Estilo de visualización del objetivo:</string>
+    <string name="characters">Personajes</string>
+    <string name="aircraft">Aeronaves</string>
+    <string name="dots_and_traces">Puntos y rastros</string>
+    <string name="only_traces">Solo rastros</string>
+    <string name="number_of_rounds_in_queue">Número de disparos en una ráfaga</string>
+    <string name="fire_button">Botón de disparo</string>
+    <string name="joystick_and_others">Joystick y otros</string>
+    <string name="enemy_shot_sound">Sonido de disparo enemigo</string>
+    <string name="show_radar_beam">Mostrar haz del radar</string>
+    <string name="reset_button_layout">Restablecer disposición de botones</string>
+    <string name="setting_up_voice_commands">Configuración de comandos de voz</string>
+    <string name="victory">¡Victoria!</string>
+    <string name="losing">¡Derrota!</string>
+    <string name="draw">¡Empate!</string>
+    <string name="play">Jugar</string>
+    <string name="exit">Salir</string>
+    <string name="recognized">Reconocido: %1$s</string>
+    <string name="voice_control">Control\npor voz</string>
+    <string name="select_photo">Seleccionar foto</string>
+    <string name="close">Cerrar</string>
+    <string name="you_have_no_stars">😢 No tienes estrellas ⭐</string>
+    <string name="you_have_x_stars">Tienes %1$s estrellas ⭐</string>
+    <string name="choose_how_to_top_up">Elige cómo recargar:</string>
+    <string name="edit">Editar: %1$s</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">Aceptar</string>
+    <string name="slow">Lento</string>
+    <string name="fast">Rápido</string>
+    <string name="trace_fading">Desvanecimiento de rastros: </string>
+    <string name="target_size">Tamaño del objetivo</string>
+    <string name="training_flight">Vuelo de entrenamiento</string>
+    <string name="air_battle">Batalla aérea</string>
+    <string name="online_skirmish">Escaramuza en línea</string>
+    <string name="mission_run">Misión</string>
+    <string name="you">Tú</string>
+    <string name="enemy">Enemigo</string>
+
+    <string name="depletion_afterburner">⚡ ¡Postquemadores agotados!</string>
+    <string name="depletion_ammo">🔫 ¡Munición agotada!</string>
+    <string name="depletion_shield">🛡 ¡Escudos agotados!</string>
+    <string name="depletion_homing">🎯 ¡Misiles teledirigidos agotados!</string>
+    <string name="depletion_superrocket">🚀 ¡Supercohetes omnidireccionales agotados!</string>
+    <string name="depletion_avada">⚡ ¡Abracadabra agotado!</string>
+    <string name="depletion_turn">🔄 ¡Giros agotados!</string>
+    <string name="depletion_reverse">⇆ ¡Reversiones agotadas!</string>
+    <string name="depletion_stars">😢 ¡No tienes suficientes estrellas para este nivel!</string>
+    <string name="game_screen_background">Fondo de la pantalla del juego:</string>
+    <string name="show_direction_sight">Mostrar mira direccional</string>
+    <string name="direction_sight">Mira direccional:</string>
+    <string name="select_background">Seleccionar fondo:</string>
+    <string name="select_from_gallery">Seleccionar desde la galería</string>
+    <string name="or_set_the_background_color">O establecer el color de fondo: </string>
+
+    <string name="command_fire_phrase">disparar</string>
+    <string name="command_fire_label">Disparar</string>
+
+    <string name="command_one_shot_phrase">disparo</string>
+    <string name="command_one_shot_label">Disparo único</string>
+
+    <string name="command_afterburner_on_phrase">postquemador</string>
+    <string name="command_afterburner_on_label">Postquemador ACTIVADO</string>
+
+    <string name="command_afterburner_off_phrase">detener postquemador</string>
+    <string name="command_afterburner_off_label">Postquemador DESACTIVADO</string>
+
+    <string name="command_speed_plus_phrase">acelerar</string>
+    <string name="command_speed_plus_label">Aumentar velocidad</string>
+
+    <string name="command_speed_minus_phrase">desacelerar</string>
+    <string name="command_speed_minus_label">Reducir velocidad</string>
+
+    <string name="command_speed_max_phrase">velocidad máxima</string>
+    <string name="command_speed_max_label">Velocidad máxima</string>
+
+    <string name="command_speed_min_phrase">velocidad mínima</string>
+    <string name="command_speed_min_label">Velocidad mínima</string>
+
+    <string name="command_speed_half_phrase">media potencia</string>
+    <string name="command_speed_half_label">Velocidad al 50%</string>
+
+    <string name="command_roll_left_phrase">giro a la izquierda</string>
+    <string name="command_roll_left_label">Girar a la izquierda</string>
+
+    <string name="command_roll_right_phrase">giro a la derecha</string>
+    <string name="command_roll_right_label">Girar a la derecha</string>
+
+    <string name="command_roll_center_phrase">recto</string>
+    <string name="command_roll_center_label">Recto</string>
+
+    <string name="command_roll_left_5_phrase">izquierda cinco</string>
+    <string name="command_roll_left_5_label">5 grados a la izquierda</string>
+
+    <string name="command_roll_left_10_phrase">izquierda diez</string>
+    <string name="command_roll_left_10_label">10 grados a la izquierda</string>
+
+    <string name="command_roll_right_5_phrase">derecha cinco</string>
+    <string name="command_roll_right_5_label">5 grados a la derecha</string>
+
+    <string name="command_roll_right_10_phrase">derecha diez</string>
+    <string name="command_roll_right_10_label">10 grados a la derecha</string>
+
+    <string name="command_shield_phrase">escudo</string>
+    <string name="command_shield_label">Activar escudo</string>
+
+    <string name="command_avada_phrase">abracadabra</string>
+    <string name="command_avada_label">Abracadabra</string>
+
+    <string name="command_battle_turn_phrase">giro de combate</string>
+    <string name="command_battle_turn_label">Giro de combate</string>
+
+    <string name="command_battle_turn_enemy_phrase">giro enemigo</string>
+    <string name="command_battle_turn_enemy_label">Girar enemigo</string>
+
+    <string name="item_stars_name">Estrellas</string>
+    <string name="item_stars_desc">¡Otorgadas por victorias! Pueden intercambiarse por recursos y usarse en diferentes niveles.</string>
+
+    <string name="item_avada_name">Abracadabra</string>
+    <string name="item_avada_desc">Rayo. Mata instantáneamente al objetivo. Solo puede ser bloqueado por un escudo.</string>
+
+    <string name="item_ammo_name">Munición</string>
+    <string name="item_ammo_desc">Munición para el cañón de la aeronave</string>
+
+    <string name="item_afterburner_name">Postquemador</string>
+    <string name="item_afterburner_desc">Aumenta la velocidad 7× durante 5 segundos</string>
+
+    <string name="item_shield_name">Escudo</string>
+    <string name="item_shield_desc">Bloquea cualquier daño, incluso Abracadabra</string>
+
+    <string name="item_missile_sector_name">Misil de sector</string>
+    <string name="item_missile_sector_desc">Ataca objetivos en un cono de 60°</string>
+
+    <string name="item_missile_any_name">Supermisil omnidireccional</string>
+    <string name="item_missile_any_desc">Impacta cualquier objetivo</string>
+
+    <string name="item_u_turn_name">Giro en U de combate</string>
+    <string name="item_u_turn_desc">Gira la aeronave 180°</string>
+
+    <string name="item_reverse_target_name">Objetivo invertido</string>
+    <string name="item_reverse_target_desc">Gira el objetivo 180°</string>
+
+    <string name="have_no_stars">Las estrellas\nse han agotado</string>
+    <string name="video_not_loadet_toast">¡Video no disponible! ¡Verifica tu conexión y vuelve a intentarlo!</string>
+    <string name="video_not_loadet_but_resurce">Video no disponible, ¡pero aquí tienes una pequeña recompensa de todos modos!</string>
+    <string name="arrow_from_gallery">seleccionar flecha desde la galería</string>
+    <string name="background_from_gallery">seleccionar fondo desde la galería</string>
+    <string name="target_from_gallery">seleccionar objetivo desde la galería</string>
+    <string name="reset">restablecer</string>
+    <string name="difficulty_1">Principiante</string>
+    <string name="difficulty_2">Fácil</string>
+    <string name="difficulty_3">Normal</string>
+    <string name="difficulty_4">Difícil</string>
+    <string name="difficulty_5">Demencial</string>
+
+    <string name="stars_1">⭐</string>
+    <string name="stars_2">⭐⭐</string>
+    <string name="stars_3">⭐⭐⭐</string>
+    <string name="stars_4">⭐⭐⭐⭐</string>
+    <string name="stars_5">⭐⭐⭐⭐⭐</string>
+
+    <string name="fire_title">Fuego</string>
+    <string name="watter_drop_subtitle">Lanza agua sobre las llamas</string>
+    <string name="meteorit_title">Meteorito</string>
+    <string name="meteorit_subtitle">¡Salva la Tierra!</string>
+    <string name="online_not_redy_title">Aún no disponible</string>
+    <string name="online_not_redy_subtitle">El desarrollador se está esforzando mucho y va con prisa</string>
+    <string name="comments_and_suggestions">Comentarios y sugerencias</string>
+    <string name="voice_kren_title">Ángulo de inclinación para comandos de voz de giro</string>
+    <string name="boo_cat_voice">capuchino</string>
+    <string name="bobr">Castor</string>
+    <string name="hocus_pocus">hocus pocus</string>
+    <string name="km_8">8 000 m</string>
+    <string name="km_80">80 000 m</string>
+    <string name="share_and_show_update">¡Permanezca atento!</string>
+</resources>
+
+

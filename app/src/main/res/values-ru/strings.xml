@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">Magical Dogfight</string>
+    <string name="profile">Профиль</string>
+    <string name="home">Главная</string>
+    <string name="settings">Настройки</string>
+    <string name="settings_title">Настройки игрового экрана</string>
+    <string name="scale_only_trening_title">Масштаб радара (только для режима тренировка):</string>
+    <string name="style_target_show_title">Стиль отображения целей:</string>
+    <string name="characters">Персонажи</string>
+    <string name="aircraft">Самолеты</string>
+    <string name="dots_and_traces">Точки и следы</string>
+    <string name="only_traces">Только следы</string>
+    <string name="number_of_rounds_in_queue">Количество патронов в очереди</string>
+    <string name="fire_button">кнопка огонь</string>
+    <string name="joystick_and_others">джойстик и другие</string>
+    <string name="enemy_shot_sound">Звук выстрела врага</string>
+    <string name="show_radar_beam">Показывать луч радара</string>
+    <string name="reset_button_layout">Cбросить расположение кнопок</string>
+    <string name="setting_up_voice_commands">Настройка голосовых команд</string>
+    <string name="victory">Победа!</string>
+    <string name="losing">Поражение!</string>
+    <string name="draw">Ничья!</string>
+    <string name="play">Играть</string>
+    <string name="exit">Выйти</string>
+    <string name="recognized">распознано: %1$s</string>
+    <string name="voice_control">Голосовое\nуправление</string>
+    <string name="select_photo">Выбрать фото</string>
+    <string name="close">Закрыть</string>
+    <string name="you_have_no_stars">😢 У тебя нет звёзд ⭐</string>
+    <string name="you_have_x_stars">У тебя %1$s звёзд ⭐</string>
+    <string name="choose_how_to_top_up">Выберите как пополнить:</string>
+    <string name="edit">Редактировать: %1$s</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">ОК</string>
+    <string name="slow">Медленное</string>
+    <string name="fast">Быстрое</string>
+    <string name="trace_fading">"Затухание следов: "</string>
+    <string name="target_size">Размер целей</string>
+    <string name="training_flight">Тренировка</string>
+    <string name="air_battle">Воздушный бой</string>
+    <string name="online_skirmish">Бои онлайн</string>
+    <string name="mission_run">Задания</string>
+    <string name="you">Ты</string>
+    <string name="enemy">Враг</string>
+
+    <string name="depletion_afterburner">⚡ Форсажи закончились!</string>
+    <string name="depletion_ammo">🔫 Снаряды закончились!</string>
+    <string name="depletion_shield">🛡 Щиты закончились!</string>
+    <string name="depletion_homing">🎯 Секторные Ракеты закончились!</string>
+    <string name="depletion_superrocket">🚀 Всенаправленные суперракеты закончились!</string>
+    <string name="depletion_avada">⚡ Абракадабра закончилась!</string>
+    <string name="depletion_turn">🔄 Развороты кончились!</string>
+    <string name="depletion_reverse">⇆ Реверсы кончились!</string>
+    <string name="depletion_stars">😢У тебя недостаточно звезд для этого уровня!</string>
+    <string name="game_screen_background">Фон игрового экрана:</string>
+    <string name="select_background">Выберите фон:</string>
+    <string name="show_direction_sight">Показывать прицел направления</string>
+    <string name="direction_sight">прицел направления:</string>
+    <string name="select_from_gallery">Выбрать из галереи</string>
+    <string name="or_set_the_background_color">"Или задать цвет фона: "</string>
+
+    <string name="command_fire_phrase">огонь</string>
+    <string name="command_fire_label">Стрельба</string>
+
+    <string name="command_one_shot_phrase">выстрел</string>
+    <string name="command_one_shot_label">Одиночный выстрел</string>
+
+    <string name="command_afterburner_on_phrase">форсаж</string>
+    <string name="command_afterburner_on_label">Форсаж вкл</string>
+
+    <string name="command_afterburner_off_phrase">стоп форсаж</string>
+    <string name="command_afterburner_off_label">Форсаж выкл</string>
+
+    <string name="command_speed_plus_phrase">скорость плюс</string>
+    <string name="command_speed_plus_label">Увеличить скорость</string>
+
+    <string name="command_speed_minus_phrase">скорость минус</string>
+    <string name="command_speed_minus_label">Уменьшить скорость</string>
+
+    <string name="command_speed_max_phrase">максимальная скорость</string>
+    <string name="command_speed_max_label">Максимальная скорость</string>
+
+    <string name="command_speed_min_phrase">минимальная скорость</string>
+    <string name="command_speed_min_label">Минимальная скорость</string>
+
+    <string name="command_speed_half_phrase">половина тяги</string>
+    <string name="command_speed_half_label">50% скорости</string>
+
+    <string name="command_roll_left_phrase">левша</string>
+    <string name="command_roll_left_label">Поворот влево</string>
+
+    <string name="command_roll_right_phrase">правша</string>
+    <string name="command_roll_right_label">Поворот вправо</string>
+
+    <string name="command_roll_center_phrase">прямая</string>
+    <string name="command_roll_center_label">Прямо</string>
+
+    <string name="command_roll_left_5_phrase">поклёвка</string>
+    <string name="command_roll_left_5_label">Влево 5 градусов</string>
+
+    <string name="command_roll_left_10_phrase">клёв</string>
+    <string name="command_roll_left_10_label">Влево 10 градусов</string>
+
+    <string name="command_roll_right_5_phrase">поправка</string>
+    <string name="command_roll_right_5_label">Вправо 5 градусов</string>
+
+    <string name="command_roll_right_10_phrase">правда</string>
+    <string name="command_roll_right_10_label">Вправо 10 градусов</string>
+
+    <string name="command_shield_phrase">щит</string>
+    <string name="command_shield_label">Активировать щит</string>
+
+    <string name="command_avada_phrase">абракадабра</string>
+    <string name="command_avada_label">Абракадабра</string>
+
+    <string name="command_battle_turn_phrase">боевой разворот</string>
+    <string name="command_battle_turn_label">Боевой разворот</string>
+
+    <string name="command_battle_turn_enemy_phrase">развернись</string>
+    <string name="command_battle_turn_enemy_label">Развернуть врага</string>
+
+    <string name="item_stars_name">Звезды</string>
+    <string name="item_stars_desc">Их вручают за победу! Можно менять на ресурсы и тратить на разных уровнях!</string>
+
+    <string name="item_avada_name">Абракадабра</string>
+    <string name="item_avada_desc">Удар молнии. Убивает цель. Защита только щитом.</string>
+
+    <string name="item_ammo_name">Снаряды</string>
+    <string name="item_ammo_desc">Боеприпасы для авиационной пушки</string>
+
+    <string name="item_afterburner_name">Форсаж</string>
+    <string name="item_afterburner_desc">Увеличивает скорость в 7 раз на 5 секунд</string>
+
+    <string name="item_shield_name">Щит</string>
+    <string name="item_shield_desc">Блокирует попадания и даже Абракадабру</string>
+
+    <string name="item_missile_sector_name">Секторная ракета</string>
+    <string name="item_missile_sector_desc">Бьёт по цели в 60° секторе</string>
+
+    <string name="item_missile_any_name">Всенаправленная суперракета</string>
+    <string name="item_missile_any_desc">Бьёт по любой цели</string>
+
+    <string name="item_u_turn_name">Боевой разворот</string>
+    <string name="item_u_turn_desc">Разворачивает самолёт на 180°</string>
+
+    <string name="item_reverse_target_name">Развернуть цель</string>
+    <string name="item_reverse_target_desc">Поворачивает цель на 180°</string>
+    <string name="have_no_stars">Звёзды\nзакончились</string>
+    <string name="video_not_loadet_toast">Видео еще не загрузилось! Проверь интернет и попробуй снова!</string>
+    <string name="video_not_loadet_but_resurce">Видео еще не загрузилось, но тебе все равно отсыпали немного ресурса!</string>
+    <string name="arrow_from_gallery">"Выбрать стрелку из галереи"</string>
+    <string name="background_from_gallery">"Выбрать фон из галереи"</string>
+    <string name="target_from_gallery">"Выбрать цель из галереи"</string>
+    <string name="reset">"Сбросить"</string>
+    <string name="difficulty_1">Новичок</string>
+    <string name="difficulty_2">Лёгкий</string>
+    <string name="difficulty_3">Средний</string>
+    <string name="difficulty_4">Сложный</string>
+    <string name="difficulty_5">Сумасшедший</string>
+    <string name="stars_1">⭐</string>
+    <string name="stars_2">⭐⭐</string>
+    <string name="stars_3">⭐⭐⭐</string>
+    <string name="stars_4">⭐⭐⭐⭐</string>
+    <string name="stars_5">⭐⭐⭐⭐⭐</string>
+    <string name="fire_title">Пожар</string>
+    <string name="watter_drop_subtitle">Сбросить воду на пламя</string>
+    <string name="meteorit_title">Метеорит</string>
+    <string name="meteorit_subtitle">Спасти землю</string>
+    <string name="online_not_redy_title">Еще не готово</string>
+    <string name="online_not_redy_subtitle">Разработчик очень старается и спешит</string>
+    <string name="comments_and_suggestions">Замечания и предложения</string>
+    <string name="voice_kren_title">Угол крена для голосовой команды разворота</string>
+    <string name="boo_cat_voice">капучино</string>
+    <string name="bobr">Бобр</string>
+    <string name="hocus_pocus">фокус-покус</string>
+    <string name="km_8">8 000 м</string>
+    <string name="km_80">80 000 м</string>
+    <string name="share_and_show_update">Следите за обновлениями!</string>
+
+</resources>
