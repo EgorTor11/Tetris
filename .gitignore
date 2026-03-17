@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Сборки — не хранить в репозитории
+/app/release/
+*.aab
+*.apk
